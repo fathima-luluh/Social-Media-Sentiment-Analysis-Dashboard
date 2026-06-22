@@ -1,0 +1,11 @@
+text,sentiment
+"I love this product",positive
+"Very bad experience",negative
+"The service is okay",neutral
+"Amazing quality and fast delivery",positive
+"I will never buy this again",negative
+"Not bad, could be better",neutral
+"Absolutely fantastic!",positive
+"Worst app ever",negative
+"Average performance",neutral
+"Highly recommended",positive
